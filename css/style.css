@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Rubik Mono One', sans-serif; 
+}
+
 main div.container.red {
     background-color: red;
     width: 100%;
@@ -41,12 +45,12 @@ main .container .img .img-text {
     text-align: center;
     text-transform: uppercase;
     color: yellow;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 main .container.yellow .img .img-text {
     text-align: center;
     text-transform: uppercase;
     color: green;
-    font-size: 50px;
+    font-size: 30px;
 }
